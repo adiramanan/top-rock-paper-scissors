@@ -1,0 +1,13 @@
+Start a game
+Ask for number of rounds
+Initiate the round with both the scores as zero
+Get computers's choice
+Get human's choice
+Check for the logic
+	rock beats scissors
+	scissors beats paper
+	paper beats rock
+	both are same then tie
+Increase the point for the player
+After 5 rounds a game is complete
+compare the points of the players and announce the winner
