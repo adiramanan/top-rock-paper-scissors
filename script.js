@@ -37,7 +37,7 @@ function play()
     }
 }
 
-console.log("Hey beaches!, let's play rock paper scissors!");
+console.log("Hey-lo!, let's play rock paper scissors!");
 var userscore = 0;
 var compscore = 0;
 play();
